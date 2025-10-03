@@ -1,0 +1,11 @@
+# python
+__pycache__/
+?*.egg-info/
+build/
+
+# virtual environment
+.venv/
+.env/
+
+# os
+.DS_Store
